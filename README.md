@@ -67,6 +67,11 @@ The [median][median] for a [Fréchet][frechet-distribution] random variable shap
 ## Usage
 
 ```javascript
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-median@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-frechet-median/tags). For example,
+
+```javascript
 import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-median@v0.2.2-esm/index.mjs';
 ```
 
@@ -146,7 +151,7 @@ y = median( 1.0, -1.0, 2.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-median@v0.2.2-esm/index.mjs';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-median@esm/index.mjs';
 
 var alpha;
 var m;
