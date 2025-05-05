@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-14)
+## Unreleased (2025-05-05)
+
+<section class="features">
+
+### Features
+
+-   [`906dd22`](https://github.com/stdlib-js/stdlib/commit/906dd228b00d5ed2ecde624a16f62b8e8aed7878) - add C implementation for `stats/base/dists/frechet/median` [(#4569)](https://github.com/stdlib-js/stdlib/pull/4569)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3610](https://github.com/stdlib-js/stdlib/issues/3610)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`906dd22`](https://github.com/stdlib-js/stdlib/commit/906dd228b00d5ed2ecde624a16f62b8e8aed7878) - **feat:** add C implementation for `stats/base/dists/frechet/median` [(#4569)](https://github.com/stdlib-js/stdlib/pull/4569) _(by Manvith M, Philipp Burckhardt)_
 -   [`fa15161`](https://github.com/stdlib-js/stdlib/commit/fa15161761664bbdd2123292d3f1d7cf2d0f0a6d) - **bench:** refactor random number generation in `stats/base/dists/frechet` [(#4922)](https://github.com/stdlib-js/stdlib/pull/4922) _(by Karan Anand, stdlib-bot)_
 -   [`27bcbf6`](https://github.com/stdlib-js/stdlib/commit/27bcbf6b931385008c1210cddb77be5c86b6d94c) - **chore:** directly draw from desired distribution and tweak ranges _(by Philipp Burckhardt)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
@@ -26,9 +49,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Manvith M
 -   Philipp Burckhardt
 
 </section>
