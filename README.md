@@ -67,7 +67,7 @@ The [median][median] for a [Fréchet][frechet-distribution] random variable shap
 ## Usage
 
 ```javascript
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-median@deno/mod.js';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-median@v0.3.0-deno/mod.js';
 ```
 
 #### median( alpha, s, m )
@@ -141,7 +141,7 @@ y = median( 1.0, -1.0, 2.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@deno/mod.js';
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-median@deno/mod.js';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-frechet-median@v0.3.0-deno/mod.js';
 
 var alpha;
 var m;
