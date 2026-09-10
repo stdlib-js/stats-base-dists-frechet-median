@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-26)
+## Unreleased (2026-09-10)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`1905f07`](https://github.com/stdlib-js/stdlib/commit/1905f07e480b8a61b8ce4a991682edf006835a7a) - **test:** migrate `stats/base/dists/frechet/median` to ULP-based assertions [(#15123)](https://github.com/stdlib-js/stdlib/pull/15123) _(by Philipp Burckhardt)_
 -   [`ac45b11`](https://github.com/stdlib-js/stdlib/commit/ac45b111df7cfa06bf92673d621b6e0d91ec0703) - **refactor:** use `main` as require alias in `stats/base/dists/frechet` [(#12260)](https://github.com/stdlib-js/stdlib/pull/12260) _(by Philipp Burckhardt)_
 -   [`2ab835f`](https://github.com/stdlib-js/stdlib/commit/2ab835f6d0b8721ef7e604d7fdced904bed91443) - **docs:** refactor to use `logEachMap` in examples [(#11485)](https://github.com/stdlib-js/stdlib/pull/11485) _(by Lokesh Ranjan)_
 -   [`f5199d6`](https://github.com/stdlib-js/stdlib/commit/f5199d619314724b7b0627f41aba3114b559cec8) - **bench:** update random value generation for `stats/base/dists/frechet` [(#10317)](https://github.com/stdlib-js/stdlib/pull/10317) _(by Lokesh Ranjan, Philipp Burckhardt)_
